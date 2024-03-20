@@ -350,8 +350,19 @@ a{
     background-color: white;
     border-top-left-radius: 10px;
     border-top-right-radius: 10px;
-    background-image: url(Recursos/Body/team/prueba.png);
+    background-image: url(Recursos/Body/JuanPablo.jpg);
     background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    height: 75%;
+}
+.foto2{
+    background-color: white;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    background-image: url(Recursos/Body/JulianaLinares.jpg);
+    background-size: cover;
+    background-position: center center;
     background-repeat: no-repeat;
     height: 75%;
 }
