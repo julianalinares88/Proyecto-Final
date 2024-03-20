@@ -45,7 +45,7 @@ header{
     display: flex;
     width: 105vh;
     height: 6vh;
-    justify-content: center;
+    justify-content: space-between;
     align-items: center;
     gap: 10vw;
     text-decoration: none;
@@ -63,6 +63,9 @@ a{
     text-decoration: none;
     color: black;
     font-weight: 600;
+}
+#a2{
+    color: white;
 }
 .busqueda{
     padding: 3px;
@@ -139,7 +142,7 @@ a{
 .text3{
     height: 6vh;
     width: 35vw;
-    font-size: 13px;
+    font-size: 14px;
     font-weight: 300;
     margin-right: -4vw;
 }
