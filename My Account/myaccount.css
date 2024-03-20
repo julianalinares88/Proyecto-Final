@@ -56,7 +56,7 @@ body{
     border-radius: 20px;
 }
 .izq{
-    /* border: solid; */
+    
     border-color:chartreuse;
     height: 730px;
     width: 850px;
@@ -68,29 +68,32 @@ body{
     flex-direction: row;
     height: 13vh;
     border-color: #2EBB77;
+    gap: 7rem;
+    margin-top: 1.5rem;
     
 }
 .logo{
-    /* border: solid; */
+    
     height: 50px;
     width: 10vw;
     border-color: rebeccapurple;
     margin-top: 30px;
     margin-left: 35px;
+    
 }
 .logoi{
-    /* border: solid; */
+    
     width: 23vh;
     height: 4.5vh;
     border-color: blue;
 }
 .conttyl{
     margin-top: 20px;
-    /* border: solid; */
+    
     height: 8vh;
 }
 .ma{
-    /* border: solid; */
+    
     font-size: 30px;
     display: flex;
     align-items: center;
@@ -99,7 +102,7 @@ body{
     height: 6vh;
 }
 .lineaverde{
-    /* border: solid; */
+    
     border-color: rgb(134, 77, 172);
     height: 2vh;
     width: 19vw;
@@ -108,13 +111,13 @@ body{
     justify-content: center;
 }
 .verde{
-    /* border: solid; */
+    
     height: 1vh;
     width: 22vh;
     background-color: #2EBB77;
 }
 .contmid{
-    /* border: solid; */
+    
     height: 27vh;
     gap: 1rem;
     display: flex;
@@ -124,7 +127,7 @@ body{
 .mid{
     display: flex;
     flex-direction: row;
-    /* border: solid; */
+   
     justify-content: center;
     align-items: center;
     opacity: 0.7;
@@ -132,7 +135,7 @@ body{
 .mid2{
     display: flex;
     flex-direction: row;
-    /* border: solid; */
+    
     justify-content: center;
     align-items: center;
 }
@@ -140,20 +143,21 @@ body{
     font-size: 40px;
 }
 .flechader{
-    /* border: solid; */
+    
     height: 3vh;
     width: 2vw;
 }
 .contdown{
-    /* border: solid; */
+    
     height: 20vh;
     display: flex;
     flex-direction: row;
     justify-content: center;
     align-items: center;
+    margin-top: 5rem;
 }
 .contdown1{
-    /* border: solid; */
+    
     height: 100%;
     width: 50%;
     border-color: aquamarine;
@@ -162,7 +166,7 @@ body{
     justify-content: center;
 }
 .down1{
-    /* border: solid; */
+    
     height: 17vh;
     width: 13vw;
     display: flex;
@@ -172,7 +176,7 @@ body{
     justify-content: center;
 }
 .ipi{
-    /*border: solid; */
+    
     border-color: #FFFFFF;
     background-color: transparent;
     color: #FFFFFF;
@@ -181,7 +185,6 @@ body{
     height: 3.5vh;
 }
 .contdown2{
-    /* border: solid; */
     height: 100%;
     width: 50%;
     border-color: chartreuse;
@@ -189,7 +192,6 @@ body{
     align-items: center;
 }
 .down2{
-    /* border: solid; */
     height: 10vh;
     width: 20vw;
     display: flex;
@@ -198,7 +200,6 @@ body{
     align-items: center;
 }
 .circulogris{
-    border: solid;
     height: 2vh;
     width: 2vh;
     border-radius: 50%;
@@ -218,7 +219,7 @@ button{
     width: 2vw;
 }
 .der{
-    /* border: solid; */
+   
     border-color: aqua;
     height: 730px;
     width: 600px;
@@ -235,6 +236,7 @@ button{
     display: flex;
     align-items: center;
     justify-content: center;
+    margin-top: 50px;
 }
 .contenedorli{
     /* border: solid; */
@@ -245,7 +247,7 @@ button{
     background-color: white;
 }
 .inputder{
-    /* border: solid; */
+   
     border-color: chocolate;
     display: flex;
     flex-direction: column;
@@ -255,25 +257,27 @@ button{
     align-items: center;
     justify-content: center;
     gap: 2rem;
+    margin-top: 50px;
 }
 .continput{
-    /* border: solid; */
+    
     width: 16vw;
     height: 4.5vh;
     display: flex;
     justify-content: center;
 }
 .continputd{
-    /* border: solid; */
+    
     width: 16vw;
     height: 4.5vh;
     display: flex;
     justify-content: center;
     align-items: center;
+    padding: 10px;
     gap: 1rem;
 }
 input{
-    border: solid;
+    
     border-color: #FFFFFF;
     background-color: transparent;
     color: #FFFFFF;
@@ -289,16 +293,17 @@ input{
     border-color: white;
 }
 .boton{
-    /* border: solid; */
+    
     border-color: beige;  
     width: 28vw;
     height: 6vh;
     display: flex;
     justify-content: center;
     align-items: flex-start;
+    margin-top: 10px;
 }
 .contbuton{
-    /* border: solid; */
+    
     width: 8vw;
     height: 4vh;
     display: flex;
