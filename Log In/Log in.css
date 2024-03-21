@@ -12,6 +12,17 @@ body{
     background: rgb(165,237,185);
     background: linear-gradient(90deg, rgba(165,237,185,1) 0%, rgba(59,183,126,1) 100%);;
 }
+.contenidoizq{
+    display: flex;
+    flex-direction: column;
+    margin: 8px;
+
+}
+.question{
+    display: flex;
+    justify-content: space-between;
+    width: 2vw;
+}
 
 .container{
     display: flex;
@@ -23,8 +34,16 @@ body{
     position: relative;
     z-index: -3;
 }
+#pstyle{
+    color: white;
+}
+a{
+    text-decoration: underline;
+    color: #2EBB77;
+}
 
 .izq{
+    
     border-top-left-radius: 20px;
     border-bottom-left-radius: 20px ;
     background-color: rgba(58, 58, 58, 0.479);
@@ -33,7 +52,7 @@ body{
     align-items: center;
     height: 95vh;
     width: 40%;
-    position: relative;
+    
 
 }
 .circulos {
@@ -104,6 +123,18 @@ body{
     justify-content: center;
     gap: 2rem;
 }
+.question{
+    width: 17vw;
+    display: flex;
+    justify-content: space-between;
+}
+.contdown2{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 1.5vw;
+}
 .continput{
     /* border: solid; */
     width: 16vw;
@@ -126,6 +157,7 @@ input{
     border-color: beige;  
     width: 28vw;
     height: 6vh;
+    margin-top: 18px;
     display: flex;
     justify-content: center;
     align-items: flex-end;
@@ -154,8 +186,6 @@ button{
     
 }
 .contenedorder{
-    /* border: solid; */
-
     height: 100%;
     width: 100%;
     border-radius: 20px;

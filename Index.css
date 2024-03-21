@@ -109,6 +109,12 @@ a{
     width: 45%;
     gap: 1pt;
 }
+.contenedortextizq{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
 .imgder{
     display: flex;
     align-items: center;
@@ -120,7 +126,6 @@ a{
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-right: 23vw;
     background-color: #d8ffe7;
     border-radius: 10px;
     height: 3vh;
@@ -134,8 +139,7 @@ a{
     
 }
 .text2{
-    margin-right: 5vw;
-    height: 28vh;
+    height: 20vh;
     width: 26vw;
     font-size: 32px;
 }
@@ -144,11 +148,10 @@ a{
     width: 35vw;
     font-size: 14px;
     font-weight: 300;
-    margin-right: -4vw;
+    
 }
 .botones{
     margin: 8px;
-    margin-left: -14px;
     height: 8vh;
     width: 30vw;
 }
@@ -179,7 +182,6 @@ a{
     font-weight: 600;
 }
 .text5{
-    margin-left: -15px;
     display: flex;
     align-items: center;
     gap: 5px;
