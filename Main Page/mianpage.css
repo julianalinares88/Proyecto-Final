@@ -281,77 +281,8 @@ a{
     position: absolute;
     right: 50px;
 }
-.arriba1{
-    /*border: solid;*/
-    height: 80%;
-    background-image: url(./Recursos/Camisas/Camisa\ Inter\ Miami.png);
-    background-size: cover;
-    background-position: center center;
-    background-size: contain;
-    background-repeat: no-repeat;
-}
-.arriba2{
-    /*border: solid;*/
-    height: 80%;
-    background-image: url(./Recursos/Camisas/Camisa\ Inter\ Milan.png);
-    background-size: cover;
-    background-position: center center;
-    background-size: contain;
-    background-repeat: no-repeat;
-}
-.arriba3{
-    /*border: solid;*/
-    height: 80%;
-    background-image: url(./Recursos/Camisas/Spurs.png);
-    background-size: cover;
-    background-position: center center;
-    background-size: contain;
-    background-repeat: no-repeat;
-}
-.arriba4{
-    /*border: solid;*/
-    height: 80%;
-    background-image: url(./Recursos/Camisas/Francia.png);
-    background-size: cover;
-    background-position: center center;
-    background-size: contain;
-    background-repeat: no-repeat;
-}
-.arriba5{
-    /*border: solid;*/
-    height: 80%;
-    background-image: url(./Recursos/Camisas/Camisa\ Inglaterra.png);
-    background-size: cover;
-    background-position: center center;
-    background-size: contain;
-    background-repeat: no-repeat;
-}
-.arriba6{
-    /*border: solid;*/
-    height: 80%;
-    background-image: url(./Recursos/Camisas/Camisa\ Roma.png);
-    background-size: cover;
-    background-position: center center;
-    background-size: contain;
-    background-repeat: no-repeat;
-}
-.arriba7{
-    /*border: solid;*/
-    height: 80%;
-    background-image: url(./Recursos/Camisas/Camisa\ Al\ -\ Nsr.png);
-    background-size: cover;
-    background-position: center center;
-    background-size: contain;
-    background-repeat: no-repeat;
-}
-.arriba8{
-    /*border: solid;*/
-    height: 80%;
-    background-image: url(./Recursos/Camisas/Camisa\ Italia.png);
-    background-size: cover;
-    background-position: center center;
-    background-size: contain;
-    background-repeat: no-repeat;
+.arriba{
+    width: 20vw;
 }
 .filtrador{
     /*border: solid;*/
