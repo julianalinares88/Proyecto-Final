@@ -1,0 +1,59 @@
+{"familiadeproductos":
+    [
+        {
+            "id":1,
+            "name": "Barcelona",
+            "price": 189.99,
+            "image": "./Recursos/Camisas/Camisa Barelona.png"
+        },
+        {
+            "id":2,
+            "name": "Inter De Milán",
+            "price": 119.95,
+            "image": "./Recursos/Camisas/Camisa Inter Milan.png"
+        },
+        {
+            "id":3,
+            "name": "Tottenham",
+            "price": 26.00,
+            "image": "./Recursos/Camisas/Spurs.png"
+        },
+        {
+            "id":4,
+            "name": "France",
+            "price": 28.00,
+            "image": "./Recursos/Camisas/Francia.png"
+        },
+        {
+            "id":5,
+            "name": "Everton",
+            "price": 114900,
+            "image": "./Recursos/Camisas/Camisa Everton.png"
+        },
+        {
+            "id":6,
+            "name": "Argentina",
+            "price": 129.00,
+            "image": "./Recursos/Camisas/Camisa Argentina.webp"
+        },
+        {
+            "id":7,
+            "name": "Liverpool",
+            "price": 129.00,
+            "image": "./Recursos/Camisas/Camisa Argentina.webp"
+        },
+        {
+            "id":8,
+            "name": "Man. City",
+            "price": 126.00,
+            "image": "./Recursos/Camisas/Camisa City.png"
+        },
+        {
+            "id":9,
+            "name": "England",
+            "price": 199.95,
+            "image": "./Recursos/Camisas/Camisa Inglaterra.png"
+        }
+    
+    ]
+}
